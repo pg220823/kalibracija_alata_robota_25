@@ -1,7 +1,11 @@
  feed_check - contains code for implementation for automatic calibration using vision system
+ 
       kal_int - code for calibration of cameras
+      
       slike_seg - code for automatic calibration of robot tool
+      
       main2 - code for saving images from camera
+      
       main - code made for experiment for segmentation
     
  
